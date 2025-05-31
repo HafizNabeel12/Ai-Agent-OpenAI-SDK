@@ -1,9 +1,17 @@
-# Ai-Agent-OpenAI-SDK
-  Two AI Agents with OpenAi SDK Fitness & Nutrition 
+# 🤖 AI Agents with OpenAI SDK – Fitness & Nutrition Coach
 
-To Run the code activate the environment and run the following command
- .\venv\Scripts\activate
- python agent-step1.py
- python agent-step2.py
- python agent-step3.py
- python agent-step4.py
+This project includes two intelligent AI agents built using the OpenAI SDK:  
+- **Fitness Coach** – Recommends personalized workout plans  
+- **Nutrition Coach** – Suggests tailored diet plans based on user goals
+
+---
+
+## 🚀 Getting Started
+
+To run the agents, follow these steps:
+
+### 1. Activate the Virtual Environment
+```bash
+.\venv\Scripts\activate   # For Windows
+# Or use:
+source venv/bin/activate # For macOS/Linux
